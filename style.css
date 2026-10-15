@@ -1,0 +1,30 @@
+#green{
+    color:rgb(44,208,44);
+}
+
+.red{
+    color:rgb(225, 0, 0);
+}
+
+.darkred{
+    color:rgb(103, 0, 0);
+}
+
+#blue{
+    color:blue;
+}
+
+button{
+    background-color:rgb(0, 105, 0);
+    color:white;
+    border:none;
+    border-radius:5px;
+    padding:10px 40px 20px 30px; 
+    cursor:pointer;
+}
+
+img{
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
